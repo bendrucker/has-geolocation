@@ -1,0 +1,35 @@
+{
+  "name": "has-geolocation",
+  "main": "index.js",
+  "version": "0.0.0",
+  "description": "Detect geolocation support",
+  "license": "MIT",
+  "repository": "bendrucker/has-geolocation",
+  "author": {
+    "name": "Ben Drucker",
+    "email": "bvdrucker@gmail.com",
+    "url": "bendrucker.me"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "keywords": [
+    "geolocation",
+    "location",
+    "support",
+    "detect",
+    "feature",
+    "navigator"
+  ],
+  "devDependencies": {
+    "proxyquire": "~1.6.0",
+    "standard": "^4.0.0",
+    "tape": "^4.0.0"
+  },
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "global": "~4.3.0"
+  }
+}

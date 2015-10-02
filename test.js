@@ -8,7 +8,9 @@ test(function (t) {
   t.ok(proxyquire('./', {
     'global/window': {
       navigator: {
-        geolocation: {}
+        geolocation: {
+          getCurrentPosition: function () {}
+        }
       }
     }
   }))

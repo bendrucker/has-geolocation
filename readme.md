@@ -1,4 +1,4 @@
-# has-geolocation [![Build Status](https://travis-ci.org/bendrucker/has-geolocation.svg?branch=master)](https://travis-ci.org/bendrucker/has-geolocation)
+# has-geolocation [![Build Status](https://travis-ci.org/bendrucker/has-geolocation.svg?branch=master)](https://travis-ci.org/bendrucker/has-geolocation) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/has-geolocation.svg)](https://greenkeeper.io/)
 
 > Detect geolocation support
 
